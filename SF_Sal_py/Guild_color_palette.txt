@@ -1,0 +1,16 @@
+"Guild"	"color"	"G_index"
+"1"	"CH4_H2"	"#CD4F39"	1
+"2"	"CH4_ac"	"#8B3626"	2
+"3"	"MOB_I"	"#63B8FF"	3
+"4"	"MOB_II"	"#4F94CD"	4
+"5"	"MOB_IIa"	"#36648B"	5
+"6"	"MeOB"	"#836FFF"	6
+"7"	"AOA"	"#7CFC00"	7
+"8"	"AOB"	"#00CD00"	8
+"9"	"NOB"	"#008B00"	9
+"10"	"Anamx"	"#00FF7F"	10
+"11"	"SOxB"	"#CD69C9"	11
+"12"	"SRB_syn"	"#CD2990"	12
+"13"	"SRB"	"#8B008B"	13
+"14"	"FeOB"	"#CD6600"	14
+"15"	"FeRB"	"#8B4513"	15

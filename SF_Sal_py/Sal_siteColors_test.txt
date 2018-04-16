@@ -1,0 +1,12 @@
+	Salpal3_col	Site
+Sandmound	#3f4c1d	Sandmound
+WestPond	#63703a	WestPond
+Mayberry	#2c9553	Mayberry
+Browns	#275831	Browns
+RushRanch	#3e797c	RushRanch
+Joice	#235355	Joice
+Goodyear	#5f9c9e	Goodyear
+WhiteSlough	#6c92b2	WhiteSlough
+Tolay	#64679d	Tolay
+ChinaCamp	#412142	ChinaCamp
+Muzzi	#8e5589	Muzzi
